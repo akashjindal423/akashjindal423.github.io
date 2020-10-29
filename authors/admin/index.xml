@@ -473,5 +473,25 @@ rm Untitled.md
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://akashjindal.com/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://akashjindal.com/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://akashjindal.com/nonprofit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://akashjindal.com/nonprofit/</guid>
+      <description>&lt;p&gt;PROFESSIONAL IS NOT A LABEL YOU GIVE YOURSELF&lt;/p&gt;
+&lt;p&gt;IT&amp;rsquo;S A DESCRIPTION YOU HOPE OTHERS WILL APPLY TO YOU&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
