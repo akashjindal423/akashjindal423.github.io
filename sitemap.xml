@@ -44,6 +44,12 @@
     <loc>http://akashjindal.com/talk/synthesizing/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://akashjindal.com/post/mynew-post/</loc>
+    <lastmod>2020-09-15T12:10:52+05:30</lastmod>
+  </url><url>
+    <loc>http://akashjindal.com/post/</loc>
+    <lastmod>2020-09-15T12:10:52+05:30</lastmod>
+  </url><url>
     <loc>http://akashjindal.com/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
@@ -73,9 +79,6 @@
   </url><url>
     <loc>http://akashjindal.com/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://akashjindal.com/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://akashjindal.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -139,6 +142,10 @@
   </url><url>
     <loc>http://akashjindal.com/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://akashjindal.com/blog/</loc>
+  </url><url>
+    <loc>http://akashjindal.com/nonprofit/</loc>
   </url><url>
     <loc>http://akashjindal.com/categories/</loc>
   </url>
